@@ -1,4 +1,4 @@
-### About BoaConsulta.com
+### About [BoaConsulta.com](https://www.boaconsulta.com)
 BoaConsulta is a appointment booking service online for patient find doctors. Any stats about BoaConsulta:
 
 * 33 thousands specialists
@@ -10,24 +10,15 @@ BoaConsulta is a appointment booking service online for patient find doctors. An
 This test is for we know your skills in HTML, CSS, JavaScript, Quality of code and your logic.
 
 ### Guidelines
-First, make a fork and clone the project in your computer.
-Create a new branch with your-name and install dependencies.
-
-```sh
-npm install
-```
-
-Run application:
-```sh
-npm start
-```
+First, make a fork and clone the project in your computer and create a new branch with your-name.
 
 After setup project you will need this instructions for make your application:
 
-1. Develop page based in layout **xxx.psd** (Font is: Montserrat)
-2. Use BoaConsulta public api
-3. Create filter ASC and DESC by name
-4. Submit a pull request and send mail to dev@boaconsulta.com
+1. Develop page based in layout **team-page-creativepox.sketch**
+2. If you no have sketch you can use [Invision Studio](https://www.invisionapp.com/studio), it is free.
+3. Use [Marvel public api](https://developer.marvel.com)
+4. Create filter by name in header
+5. Submit a pull request and send mail to dev@boaconsulta.com
 
 ### Requirements
 1. Write code with VueJS, React or Angular
@@ -43,4 +34,4 @@ After setup project you will need this instructions for make your application:
 2. Your project user SSR
 3. Your project has speed
 
-<sub>Os dados presentes neste teste são totalmente fictícios.</sub>
+<sub>The data present in this test are totally fictitious.</sub>
