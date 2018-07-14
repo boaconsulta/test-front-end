@@ -20,7 +20,7 @@ First, make a fork and clone the project in your computer and create a new branc
 After setup project you will need this instructions for make your application:
 
 1. Develop page based in layout **team-page-creativepox.sketch**
-2. If you no have sketch you can use [Invision Studio](https://www.invisionapp.com/studio) or [Zeplin](https://zeplin.io) its is free
+2. If you no have sketch you can use [Invision Studio](https://www.invisionapp.com/studio) or [Zeplin](https://zeplin.io) its is free. Another solution is [Ovocode](https://avocode.com/), paid, but you can use it for 14 days in trial.
 3. Use [Marvel public api](https://developer.marvel.com)
 4. Create filter by name in header
 5. Submit a pull request and send mail to dev@boaconsulta.com
