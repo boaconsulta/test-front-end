@@ -9,7 +9,7 @@ BoaConsulta is a appointment booking service online for patient find doctors. An
 * 1 and a half million schedules per year
 
 ### Open jobs
-[boaconsulta.recruiterbox.com](https://boaconsulta.recruiterbox.com)
+[boaconsulta.workenial.com/](https://boaconsulta.workenial.com/)
 
 ### Test for developer front-end at BoaConsulta.com
 This test is for we know your skills in HTML, CSS, JavaScript, Quality of code and your logic.
