@@ -23,7 +23,7 @@ After setup project you will need this instructions for make your application:
 5. Submit a pull request and send mail to dev@boaconsulta.com
 
 ### Requirements
-1. Write code with VueJS, React or Angular
+1. Write code with VueJS or Nuxt
 2. Use a CSS preprocessor of your choice.
 3. Tests and Documentation
 4. Webpack
